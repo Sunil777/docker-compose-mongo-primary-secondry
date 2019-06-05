@@ -1,4 +1,4 @@
-# This repo demonstrates how to setup a Mongo primary secondary docker-compose and the official mysql docker image.
+# This repo demonstrates how to setup a Mongo primary secondary docker-compose and the official Mongo docker image.
 
 ## How to use
 
